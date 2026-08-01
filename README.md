@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-국립금오공과대학교 경영학과를 졸업한 후 
+
 
 ---
 
@@ -50,11 +50,6 @@
 <!-- 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bucker)](https://solved.ac/bucker)
-
-- 🔭 **Currently Focusing On:** RAG / LangGraph / MLOps & LLM Fine-tuning
-- 🌱 **Challenges:** SW 역량테스트 A형 취득을 위한 알고리즘 스터디, Kaggle VQA 경진대회
-- 💡 **Work Style:** `문제 정의` → `가설 수립` → `검증` → `회고`를 통한 점진적 성장
--->
 
 
 

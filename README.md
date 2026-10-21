@@ -1,4 +1,4 @@
-<img width="296" height="55" alt="image" src="https://github.com/user-attachments/assets/0c5f7996-8ae8-4852-9d49-27dabcaab4a5" /># Nice to meet you, I'm SiHoo Kim!
+# Nice to meet you, I'm SiHoo Kim!
 
 ## Hi there 👋
 

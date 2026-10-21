@@ -1,4 +1,4 @@
-# Nice to meet you, I'm SiHoo Kim!
+<img width="296" height="55" alt="image" src="https://github.com/user-attachments/assets/0c5f7996-8ae8-4852-9d49-27dabcaab4a5" /># Nice to meet you, I'm SiHoo Kim!
 
 ## Hi there 👋
 
@@ -42,7 +42,8 @@
 
 | Period | Project | PM Angle & Description | Tech Stack |
 | :---: | :--- | :--- | :--- |
-| **2026.07 - 2026.08** | **BodyBuilder** | **XXXXXX와 XXXX을 이용한 웹 게임 프로젝트**<br>· SSAFY 2학기 공통프로젝트 출품 / 웹 게임 로직/경험 설계와 디자인 및 브랜딩 설계 | (현재 비공개) |
+| **2026.07 - 2026.08** | **SSketch** | **그림을 그리고, 훔치고, 평가하는 4인 멀티플레이 게임**<br>· SSAFY 2학기 특화프로젝트 출품 / 기획 및 PM(일정 관리, 외부 협업, 배포 등) 역할 수행 | Unity 6 |
+| **2026.07 - 2026.08** | **BodyBuilder** | **웹캠으로 팔을 뻗어 길을 만드는 4인 협동 웹 게임**<br>· SSAFY 2학기 공통프로젝트 출품 / 웹 게임 로직/경험 설계와 디자인 및 브랜딩 설계 | (현재 비공개) |
 | **2026.05 - 2026.06** | **ProjectRG** | **AI 에이전트 & 절차적 생성 기반 개인화 게임 및 플레이어 행동 인사이트 플랫폼**<br>· 유저 심리 및 플레이 패턴 데이터를 분석하여 맞춤형 콘텐츠 기획<br>· SSAFY 1학기 관통프로젝트 출품 | Python, Django, Vue.js |
 | **2026.03 - 2026.05** | **NeonTetrisWar** | **로컬 멀티 대전 테트리스**<br>· 대전 시스템 구조 설계 및 조작감/규칙 구현 | Python, Node.js |
 
